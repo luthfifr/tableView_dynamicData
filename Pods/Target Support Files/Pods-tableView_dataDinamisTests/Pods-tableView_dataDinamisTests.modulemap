@@ -1,0 +1,6 @@
+framework module Pods_tableView_dataDinamisTests {
+  umbrella header "Pods-tableView_dataDinamisTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
